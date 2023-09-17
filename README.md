@@ -1,2 +1,2 @@
-# shangar arivazhagan (shanky)
-## Python Developer - Automation - Backend
+# Shangar Arivazhagan (Keys) | Developer
+## Backend - Python - Django - DRF - Automation Frameworks - Fun Develop Apps
