@@ -1,26 +1,13 @@
-# 🚀 Shangar Arivazhagan (Keys: shangar-t-a) GitHub Profile
+# 🚀 Shangar Arivazhagan (Keys)
 
-## Backend - Python - Django - DRF - Automation Frameworks - Fun Develop Apps
+Hey I am Shangar Arivazhagan (Keys), a passionate AI Engineer with a strong background in industry standard Python
+solutions and frameworks. I have worked on various projects, that focuses on generative AI, semi-conductor test and
+manufacturing solutions and backend applications.
 
-### **Backend Development**
+I have hands on experience in building AI solutions. I have a strong foundation in RAG, Prompt and Context Engineering,
+AI Evaluation, and leveraging AI in existing workflows. I have worked on building scalable solutions using clean
+architecture principles and a strong architecture advocating mindset.
 
-<div style="display: flex; align-items: center;">
-    <img src="./assets/images/python-logo.svg" alt="Python Icon" width="70" height="70" style="padding-right: 10px;">
-    <img src="./assets/images/django-logo.svg" alt="Django Icon" width="150" height="70">
-    <img src="./assets/images/django-rest-framework-logo.png" alt="DRF Icon" width="180" height="70">
-    <img src="./assets/images/fastapi-logo.png" alt="FastAPI Icon" width="150" height="70">
-</div>
-
-### **Artificial Intelligence (Beginner)**
-
-<div style="display: flex; align-items: center;">
-    <img src="./assets/images/openai-lockup-logo.png" alt="OpenAI Icon" width="250" height="70">
-</div>
-
-- OpenAI
-- Azure OpenAI
-- RAG and Prompt Engineering
-
-## 💡 **Interests**
-
-- Continuous learning in backend frameworks and AI technologies.
+I am eager to learn and explore new technologies in the AI space and backend development. My primary tech stack is
+Python and some of the my notable skillsets are LLamaIndex, FastAPI, Pytest, Industry standard Python toolings (UV,
+Poetry, Ruff, Tox, etc), REST, Structured Database.
